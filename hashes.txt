@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en la piel
+
+This log tracks the cryptographic history and versioning for the song **Deseo en la piel** (deseo-en-la-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:37:40.763496 | `v1` | `7361e51d7d332ef6e1dc1aebb0eb1e75c235b9a6878909e51972446f8d56f1dd` | `4e60612d16fa96c642afdd401391bc165928184ce52d8526bb4da0f640298a62` | `2026-06-17_deseo-en-la-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
